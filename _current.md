@@ -24,5 +24,7 @@
 | 2026-07-02 | deep-dive-foundations.md | qemu |
 | 2026-07-02 | learning-roadmap.md | qemu |
 | 2026-07-02 | aspeed-bmc.md | qemu |
+| 2026-07-08 | architecture-overview.md | qemu |
+| 2026-07-08 | build-compile.md | qemu |
 | 2026-07-02 | sensor-emulation.md | qemu |
 | 2026-07-02 | boot-flow.md | riscv |
