@@ -10,8 +10,9 @@ tags: [xv6, riscv, os, kernel]
 |------|------|
 | [编译构建系统](build-system.md) | Makefile 架构、交叉编译工具链、编译标志、链接脚本、QEMU/GDB |
 | [启动流程](boot-process.md) | PMP、Sv39 MMU、页表、内核→用户态切换、文件系统加载、Shell 启动 |
-| [Virtio 磁盘驱动与中断](virtio-disk.md) | Virtio 协议、Virtqueue、PLIC、完整中断路径 |
+| [用户态程序](user-program.md) | ELF 格式、静态链接、kexec 加载流程、与 Linux 的对比 |
 | [usys.pl 系统调用桩生成](usys-pl.md) | 脚本用途、汇编桩原理、系统调用完整链路 |
+| [Virtio 磁盘驱动与中断](virtio-disk.md) | Virtio 协议、Virtqueue、PLIC、完整中断路径 |
 
 ## 源码位置
 
