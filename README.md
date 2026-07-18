@@ -9,6 +9,7 @@
 | QEMU | [qemu/](./qemu/_index.md) | 4 | QEMU 整体架构与核心子系统 |
 | ⤷ QEMU 内存模型 | [qemu-memory/](./qemu-memory/_index.md) | 0 | MemoryRegion、AddressSpace、IOMMU |
 | RISC-V | [riscv/](./riscv/_index.md) | 1 | RISC-V 架构与实现 |
+| xv6-riscv | [xv6-riscv/](./xv6-riscv/_index.md) | 3 | xv6 操作系统内核分析 |
 
 > 新增方向时：新建子目录 → 创建 `_index.md` → 在上表加一行。
 
